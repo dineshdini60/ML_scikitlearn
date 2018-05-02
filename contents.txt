@@ -17,3 +17,10 @@ Classification:
 	5)K-Nearest Neighbors (K-NN)
 	6)Decision Tree Classification
 	7)Random Forest Classification
+Clustering:
+	1)K-means clustering
+	2)hierarchical clustering
+Dimensionality Reduction:
+	1)Principal Component Analysis (PCA)
+	2)Kernel PCA
+	3)Linear Discriminant Analysis (LDA)
