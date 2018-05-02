@@ -1,11 +1,19 @@
-step0 : Data preprocessing
-  a)Dealing with missing data fields
-  b)Label encoder and one hot encoder for working with categorical data fields.
+step 0 : Data preprocessing
+	a)Dealing with missing data fields
+	b)Label encoder and one hot encoder for working with categorical data fields.
 Regression:
-  1)Simple linear Regression
-  2)Multiple linear Regression
-  3)Polynomial Regression
-  *The below algorithms support non linearity in data.*
-  4)Decision Tree Regression
-  5)Random Forest Regression
-  6)SVM
+	1)Simple linear Regression
+	2)Multiple linear Regression
+	3)Polynomial Regression
+	*The below algorithms support non linearity in data.*
+	4)Decision Tree Regression
+	5)Random Forest Regression
+	6)SVM
+Classification:
+	1)Logistic Regression
+	2)Support Vector Machine (SVM)
+	3)Kernel SVM
+	4)Naive Bayes
+	5)K-Nearest Neighbors (K-NN)
+	6)Decision Tree Classification
+	7)Random Forest Classification
